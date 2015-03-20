@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions take a matrix and returns its inverse based on the value of the inverse in cache
+## Function will retun the value from cache if it exists otherwise compute a new value
 
 ## Takes in a matrix and returns four functions that get or set the inverse of the matrix
 
